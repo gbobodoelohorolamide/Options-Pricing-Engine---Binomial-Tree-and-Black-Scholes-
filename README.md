@@ -51,7 +51,7 @@ A discrete-time model that simulates possible price paths and uses backward indu
 * Graphical visualization of results
 
 🚀 How to Run
-# Clone repositorygit clone https://github.com/gbobodelohorolamide/options-pricing-engine.git# Install dependenciespip install -r requirements.txt# Run notebook or scriptjupyter notebook
+# Clone repositorygit clone https://github.com/gbobodelohorolamide/Options-Pricing-Engine---Binomial-Tree-and-Black-Scholes.git# Install dependenciespip install -r requirements.txt# Run notebook or scriptjupyter notebook
 
 📊 Example Outputs
 
